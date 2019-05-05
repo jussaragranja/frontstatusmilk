@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: br.com.aprendaSeleniumComThiago.test.TestSimpleBasicForm
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 15.788 sec <<< FAILURE! - in br.com.aprendaSeleniumComThiago.test.TestSimpleBasicForm
+realizarSomaTestDois(br.com.aprendaSeleniumComThiago.test.TestSimpleBasicForm)  Time elapsed: 15.788 sec  <<< FAILURE!
+java.lang.AssertionError: Soma não retornou valor correto
+	at br.com.aprendaSeleniumComThiago.test.TestSimpleBasicForm.realizarSomaTestDois(TestSimpleBasicForm.java:63)
+

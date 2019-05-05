@@ -1,0 +1,14 @@
+br/com/aprendaSeleniumComThiago/core/CorePage$1.class
+br/com/aprendaSeleniumComThiago/core/CorePage.class
+br/com/aprendaSeleniumComThiago/util/Browser.class
+br/com/aprendaSeleniumComThiago/page/PageCarrinhoDeCompra.class
+br/com/aprendaSeleniumComThiago/core/CoreDriver.class
+br/com/aprendaSeleniumComThiago/util/Property.class
+br/com/aprendaSeleniumComThiago/page/PageCheckOut.class
+br/com/aprendaSeleniumComThiago/util/Utils.class
+br/com/aprendaSeleniumComThiago/util/ConstantesTest.class
+br/com/aprendaSeleniumComThiago/util/ConversorTipos.class
+br/com/aprendaSeleniumComThiago/page/PageHomeSeleniumEasy.class
+br/com/aprendaSeleniumComThiago/page/PageBasicFormDemo.class
+br/com/aprendaSeleniumComThiago/core/CoreBaseTest.class
+br/com/aprendaSeleniumComThiago/test/TestSimpleBasicForm.class
