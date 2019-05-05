@@ -1,7 +1,9 @@
-	package br.com.conductor.frontstatusmilk.util;
+package br.com.conductor.frontstatusmilk.util;
 
-
-
+/**
+ * @authors Jussara Souza
+ * @date 5 de mai de 2019
+ */
 public class ConstantesTest {
 
 	public static String METHOD_NAME_TEST = null;

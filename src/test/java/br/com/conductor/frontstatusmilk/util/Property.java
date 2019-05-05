@@ -4,11 +4,11 @@ import java.io.File;
 import java.io.InputStream;
 import java.util.Properties;
 
+
 /**
-* @author thiago.freire
-* Define o caminho do driver dos diferentes browsers
-* Acessa as configuracoes definidas no config.properties e retorna o valeu do Propertie 
-*/
+ * @authors Jussara Souza
+ * @date 5 de mai de 2019
+ */
 public abstract class Property {
 
 	

@@ -18,12 +18,9 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-
 /**
- * 
- * @author thiago.freire
- * @param <T>
- * Classe resposavel por gerencia todas as ações das paginas.
+ * @authors Jussara Souza
+ * @date 5 de mai de 2019
  */
 public abstract class CorePage<T> {
 

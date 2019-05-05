@@ -27,9 +27,8 @@ import java.text.SimpleDateFormat;
 
 
 /**
- * Conversor de tipos primitivos
- * 
- * @author thiago.freire
+ * @authors Jussara Souza
+ * @date 5 de mai de 2019
  */
 public class ConversorTipos {
 

@@ -7,6 +7,10 @@ import br.com.conductor.frontstatusmilk.page.CreatePage;
 import br.com.conductor.frontstatusmilk.page.MenuPage;
 import br.com.conductor.frontstatusmilk.util.Property;
 
+/**
+ * @authors Jussara Souza
+ * @date 5 de mai de 2019
+ */
 
 public class EntityTest extends CoreBaseTest {
 	

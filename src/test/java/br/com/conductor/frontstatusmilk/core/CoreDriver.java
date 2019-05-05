@@ -19,11 +19,9 @@ import br.com.conductor.frontstatusmilk.util.ConversorTipos;
 import br.com.conductor.frontstatusmilk.util.Property;
 
 
-
 /**
- * Selenium WebDriver
- *
- * @author thiago.freire
+ * @authors Jussara Souza
+ * @date 5 de mai de 2019
  */
 public class CoreDriver {
 

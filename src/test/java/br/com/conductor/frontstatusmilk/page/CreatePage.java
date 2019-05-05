@@ -10,6 +10,11 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import br.com.conductor.frontstatusmilk.core.CoreBaseTest;
 import br.com.conductor.frontstatusmilk.core.CoreDriver;
 
+
+/**
+ * @authors Jussara Souza
+ * @date 5 de mai de 2019
+ */
 public class CreatePage extends CoreBaseTest {
 
 	protected WebDriver driver;

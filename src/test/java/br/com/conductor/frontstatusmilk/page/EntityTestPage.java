@@ -7,6 +7,11 @@ import org.openqa.selenium.support.PageFactory;
 
 import br.com.conductor.frontstatusmilk.core.CoreDriver;
 
+
+/**
+ * @authors Jussara Souza
+ * @date 5 de mai de 2019
+ */
 public class EntityTestPage {
 	
 	protected WebDriver driver;

@@ -15,6 +15,11 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import br.com.conductor.frontstatusmilk.core.CoreDriver;
 
+
+/**
+ * @authors Jussara Souza
+ * @date 5 de mai de 2019
+ */
 public abstract class BasePage<T> {
 	
 	private static final int LOAD_TIMEOUT = 30;

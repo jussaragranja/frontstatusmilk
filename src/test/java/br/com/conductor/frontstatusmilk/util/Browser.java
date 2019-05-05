@@ -1,8 +1,8 @@
 package br.com.conductor.frontstatusmilk.util;
 
 /**
- * @author CONDUCTOR\thiago.freire
- * Classe para definir vari�vel para identifi��o dos browsers
+ * @authors Jussara Souza
+ * @date 5 de mai de 2019
  */
 public class Browser {
 

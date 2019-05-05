@@ -8,6 +8,10 @@ import br.com.conductor.frontstatusmilk.core.CoreDriver;
 import br.com.conductor.frontstatusmilk.core.CorePage;
 
 
+/**
+ * @authors Jussara Souza
+ * @date 5 de mai de 2019
+ */
 public class MenuPage extends CorePage<MenuPage>{
 
 	protected WebDriver driver;

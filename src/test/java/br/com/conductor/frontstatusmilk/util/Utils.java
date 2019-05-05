@@ -16,11 +16,10 @@ import br.com.conductor.frontstatusmilk.core.CoreDriver;
 
 
 
+
 /**
- * Classe com metodos de apoio, que otimizam a codificacao das classes de pagina
- * 
- * @author thiago.freire
- * 
+ * @authors Jussara Souza
+ * @date 5 de mai de 2019
  */
 public abstract class Utils {
 
